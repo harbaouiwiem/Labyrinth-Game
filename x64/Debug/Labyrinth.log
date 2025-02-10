@@ -1,0 +1,3 @@
+﻿  Labyrinth.cpp
+C:\Users\amriw\OneDrive\Desktop\Projects\Labyrinth\Labyrinth.cpp(136,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Labyrinth.vcxproj -> C:\Users\amriw\OneDrive\Desktop\Projects\Labyrinth\x64\Debug\Labyrinth.exe
